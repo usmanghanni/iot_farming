@@ -13,7 +13,7 @@
 $hostname = "localhost";
 $username = "root";
 $password = "tstark";
-$db = "kkkp";
+$db = "1234";
 
 $conn=mysqli_connect($hostname,$username,$password,$db);
 if ($conn->connect_error) {
